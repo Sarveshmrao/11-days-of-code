@@ -13,3 +13,10 @@ The stats is visible in the homepage of the bot and in the about command of the 
 As Nyaru is a closed source project I can't share the code on what I have worked today.
 
 [Nyaru](https://nyaru.xyz)
+
+## <u>Day 2: Jan 29th 2022 **Saturday**: </u>
+Today I made an API for SMR Go (https://go.sarveshmrao.in), my personal URL Shortener<br>
+Designed and developed an app for the SMR Go Shortener for my personal use in my Android device using Flutter.<br>
+Learnt a lot of new concepts in Flutter, PHP and REST API Practices.<br>
+
+I have still not completed this project. Once its complete I'll upload the code to GitHub.
