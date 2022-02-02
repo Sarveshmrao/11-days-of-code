@@ -31,3 +31,8 @@ Didn't code a lot today.<br>
 Created a system audit tool using Python.<br>
 It audits all the softwares installed in the system and logs it to a internal database powered application.<br>
 I learnt a lot of ways on using system commands in Python<br>
+
+
+## <u>Day 5: Feb 1st 2022 **Tuesday**: </u>
+Today I created automated bot which posts to a Facebook group on a timely basis by fetching data from Google Sheets.<br>
+Learnt a lot of new stuff on using Google Sheets API and the Facebook API.<br>
