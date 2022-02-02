@@ -20,3 +20,8 @@ Designed and developed an app for the SMR Go Shortener for my personal use in my
 Learnt a lot of new concepts in Flutter, PHP and REST API Practices.<br>
 
 I have still not completed this project. Once its complete I'll upload the code to GitHub.
+
+## <u>Day 3: Jan 30th 2022 **Sunday**: </u>
+Created the UI for the SMR Go Android App.<br>
+Learnt a lot of new widgets and stuff.<br>
+Didn't code a lot today.<br>
