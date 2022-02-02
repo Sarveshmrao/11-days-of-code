@@ -25,3 +25,9 @@ I have still not completed this project. Once its complete I'll upload the code 
 Created the UI for the SMR Go Android App.<br>
 Learnt a lot of new widgets and stuff.<br>
 Didn't code a lot today.<br>
+
+
+## <u>Day 4: Jan 31st 2022 **Monday**: </u>
+Created a system audit tool using Python.<br>
+It audits all the softwares installed in the system and logs it to a internal database powered application.<br>
+I learnt a lot of ways on using system commands in Python<br>
