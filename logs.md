@@ -49,3 +49,9 @@ Created a Discord Bot which plays Indian Radio Stations in Discord Voice Channel
 Learnt about how Discord VC works in code<br>
 Learnt about encoding and decoding the voice data etc<br>
 Planning to make this a public Discord Bot soon<br>
+
+## <u>Day 8: Feb 4, 2022 **Friday**: </u>
+Continued with the asthetic and user facing sides of the Indian Radio Bot.<br>
+Yesterday I finished only the functionality part<br>
+Today I finished the UI part. It was amazing. Didn't code a lot today.<br>
+Soon gonna make this bot another Public Bot. So stay tuned for that!<br>
