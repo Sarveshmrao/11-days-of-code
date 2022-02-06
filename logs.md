@@ -26,17 +26,14 @@ Created the UI for the SMR Go Android App.<br>
 Learnt a lot of new widgets and stuff.<br>
 Didn't code a lot today.<br>
 
-
 ## <u>Day 4: Jan 31, 2022 **Monday**: </u>
 Created a system audit tool using Python.<br>
 It audits all the softwares installed in the system and logs it to a internal database powered application.<br>
 I learnt a lot of ways on using system commands in Python<br>
 
-
 ## <u>Day 5: Feb 1, 2022 **Tuesday**: </u>
 Today I created automated bot which posts to a Facebook group on a timely basis by fetching data from Google Sheets.<br>
 Learnt a lot of new stuff on using Google Sheets API and the Facebook API.<br>
-
 
 ## <u>Day 6: Feb 2, 2022 **Wednesday**: </u>
 Started off with a new language, [Pinescript](https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html).<br>
@@ -55,3 +52,10 @@ Continued with the asthetic and user facing sides of the Indian Radio Bot.<br>
 Yesterday I finished only the functionality part<br>
 Today I finished the UI part. It was amazing. Didn't code a lot today.<br>
 Soon gonna make this bot another Public Bot. So stay tuned for that!<br>
+
+## <u>Day 9: Feb 5, 2022 **Saturday**: </u>
+Was wokring on my open source project [Hymity](https://hymity.js.org).<br>
+Was updating it to Discord.JS v13.<br>
+Learnt a lot about the changes in v13 compared to v12.<br>
+
+Checkout the source code here: [GitHub](https://github.com/Sarveshmrao/hymity)
