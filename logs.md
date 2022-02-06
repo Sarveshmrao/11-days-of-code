@@ -44,3 +44,8 @@ It is a very interesting scripting language for [TradingView](https://tradingvie
 Created a script for automating my trading strategies.<br>
 Happy to learn a new language that helps me in rading too.<br>
 
+## <u>Day 7: Feb 3, 2022 **Thursday**: </u>
+Created a Discord Bot which plays Indian Radio Stations in Discord Voice Channels.<br>
+Learnt about how Discord VC works in code<br>
+Learnt about encoding and decoding the voice data etc<br>
+Planning to make this a public Discord Bot soon<br>
