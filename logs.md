@@ -88,3 +88,24 @@ Added option for adding multiple instances of YOURLS (Your Own URL Shortener) in
 Planning to make it a public project.<br>
 
 1 Day to goo!!! Looking forward on completing this challenge successfully!!!<br>
+
+
+
+## <u>Day 11: Feb 7, 2022 **Monday**: </u>
+Created a Telegram Bot which downloads music from the JioSaavn Links sent.<br>
+It also has a search feature.<br>
+It can also send lyrics<br>
+It still needs some fixes on how the commands presented to the user.<br>
+
+You can try it out now.<br>
+
+[@JioSaavnDwnBot](https://t.me/JioSaavnDwnBot)
+
+
+Today is the last day of my #11DaysOfCode Challenge.<br>
+I have learnt a lot throughout the journey of my 11-days-of-code<br>
+I was inspired by [@SiddharthaBhattacharjee](https://github.com/SiddharthaBhattacharjee) to start this challenge.<br>
+
+Looking forward on taking up more such challenges.<br>
+Have any suggesions for such self-challenges? Mail it to the below address.<br>
+me@sarveshmrao.in
