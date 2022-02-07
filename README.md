@@ -5,9 +5,7 @@ Here are the [Rules](https://github.com/Sarveshmrao/11-days-of-code/blob/main/ru
 I will be maintaining a [Log](https://github.com/Sarveshmrao/11-days-of-code/blob/main/logs.md) in this repo, so that anyone can track my progress.<br>
 
 My main motivation behind taking up the #11DaysOfCode Challenge is to increase my consistency. As it is famously said "Consistency is the key to success." My goal is to learn to consistantly work.<br>
-
 Feel free to give any sugestions you have for me. All suggestions are welcome.<br>
-
 
 ## Sarvesh M Rao
 ### me@sarveshmrao.in
